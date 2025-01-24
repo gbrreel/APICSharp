@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/GabrielGallo/Códigos/git/APICSharp/APICSharp/APICSharp/APICSharp.csproj": {}
+    "/Users/GabrielGallo/Códigos/git/APICSharp/APICSharp/APICSharp/APICSharp.csproj": {}
   },
   "projects": {
-    "/Users/GabrielGallo/Códigos/git/APICSharp/APICSharp/APICSharp/APICSharp.csproj": {
+    "/Users/GabrielGallo/Códigos/git/APICSharp/APICSharp/APICSharp/APICSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/GabrielGallo/Códigos/git/APICSharp/APICSharp/APICSharp/APICSharp.csproj",
+        "projectUniqueName": "/Users/GabrielGallo/Códigos/git/APICSharp/APICSharp/APICSharp/APICSharp.csproj",
         "projectName": "APICSharp",
-        "projectPath": "/Users/GabrielGallo/Códigos/git/APICSharp/APICSharp/APICSharp/APICSharp.csproj",
+        "projectPath": "/Users/GabrielGallo/Códigos/git/APICSharp/APICSharp/APICSharp/APICSharp.csproj",
         "packagesPath": "/Users/GabrielGallo/.nuget/packages/",
-        "outputPath": "/Users/GabrielGallo/Códigos/git/APICSharp/APICSharp/APICSharp/obj/",
+        "outputPath": "/Users/GabrielGallo/Códigos/git/APICSharp/APICSharp/APICSharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/GabrielGallo/.nuget/NuGet/NuGet.Config"
@@ -47,6 +47,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[7.2.0, )"
             }
           },
           "imports": [
