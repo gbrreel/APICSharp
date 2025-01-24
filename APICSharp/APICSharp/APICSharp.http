@@ -1,0 +1,6 @@
+@APICSharp_HostAddress = http://localhost:5019
+
+GET {{APICSharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

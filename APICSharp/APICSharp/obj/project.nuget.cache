@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JNW3+6Ayb6s=",
+  "success": true,
+  "projectFilePath": "/Users/GabrielGallo/Códigos/git/APICSharp/APICSharp/APICSharp/APICSharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/GabrielGallo/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/Users/GabrielGallo/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
